@@ -1,5 +1,5 @@
 # XmlParser
-### Cel projektu : 
+### Cel projektu: 
 #### przetwarzanie i wydobywanie poszczególnych danych z dużych plików XML
 ### Funkcjonalności programu
 #### odpowiednie wyświeltanie wydobytych danych
